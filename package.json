@@ -1,5 +1,5 @@
 {
-  "name": "trueautomation-atom",
+  "name": "trueautomation",
   "main": "./lib/trueautomation-atom",
   "version": "1.0.0-rc1",
   "description": "Write your tests faster and make them more reliable with TrueAutomation.IO smart locators.",
