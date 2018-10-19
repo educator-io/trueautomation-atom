@@ -1,0 +1,72 @@
+// The ui-variables file is provided by base themes provided by Atom.
+//
+// See https://github.com/atom/atom-dark-ui/blob/master/styles/ui-variables.less
+// for a full listing of what's available.
+@import "ui-variables";
+
+.ta-modal {
+  padding: 14px;
+
+  .ta-modal-message {
+    font-size: 14px;
+    color: #777777;
+  }
+
+  .ta-primary-btn {
+    display: block;
+    background-color: #ee6c4d;
+    padding: 5px;
+    width: 60px;
+    color: #fff;
+    text-transform: capitalize;
+    text-align: center;
+    border-radius: 4px;
+    margin-top: 20px;
+    border: 1px solid #ee6c4d;
+
+    &:hover {
+      background-color: transparent;
+      color: #ee6c4d;
+      text-decoration: none;
+    }
+  }
+}
+
+.ta-element-button {
+  border: #ee6c4d solid 1px;
+  border-radius: 3px;
+  color: #ee6c4d;
+  padding: 0 3px;
+  cursor: pointer;
+  height: 20px;
+  width: 26px;
+  margin-top: -22px;
+
+  &.ta-hover {
+    color: #ffffff;
+    background-color: #ee6c4d;
+  }
+}
+
+.ta-element-name {
+  &.ta-found {
+    color: #55dd55;
+  }
+
+  &.ta-not-found {
+    color: #dd5555;
+  }
+}
+
+atom-overlay.ta-element {
+  z-index: 0 !important;
+}
+
+atom-overlay.ta-element-hidden {
+  z-index: 0 !important;
+  display: none;
+}
+
+.tab-bar {
+  z-index: 1;
+}
