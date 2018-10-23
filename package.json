@@ -4,14 +4,14 @@
   "version": "1.0.0-rc1",
   "description": "Simply click on an element to add it’s 'TrueAutomation locator' to your test case.",
   "keywords": [
-    'trueautomation',
-    'automationtesting',
+    'java',
+    'ruby',
     'selenium',
-    'atom',
-    'plugin',
-    'ide-plugin',
-    'stable-locators',
-    'webtestingautomation'
+    'rspec',
+    'testing',
+    'junit',
+    'capybara',
+    'trueautomation'
   ],
   "repository": "https://github.com/educator-io/trueautomation-atom",
   "license": "MIT",
