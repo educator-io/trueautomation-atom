@@ -1,5 +1,5 @@
 {
-  "name": "trueautomation",
+  "name": "trueautomation-element-picker",
   "main": "./lib/trueautomation-atom",
   "version": "1.0.0",
   "description": "Simply click on an element to add it's `TrueAutomation locator` to your test case.",
