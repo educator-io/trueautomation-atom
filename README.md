@@ -17,7 +17,7 @@ To use this plugin, please perform the actions below:
 - Install Atom IDE (recommended version 1.31.2 and higher)
 - Create account at [trueautomation.io](https://trueautomation.io)
 - Install TrueAutomation client
-- Install [TrueAutomation Chrome Extenesion](XXXXXX)
+- Install [TrueAutomation Chrome Extenesion](https://chrome.google.com/webstore/detail/trueautomationio-element/khpnbhifngechnmadjdgddjjaiioncoh)
 
 ### GUI
 1. Install [Atom latest](https://atom.io) or newer
