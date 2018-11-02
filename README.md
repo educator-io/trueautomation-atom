@@ -6,7 +6,7 @@ When you pick an element that should be used in your test, TrueAutomation.IO gen
 - **save time on finding proper locators**
 - **save time on tests maintenance**
 
-![Element recording process](https://imgur.com/c7U1U2C)
+![Element recording process](styles/taPicker.gif)
 
 *Visit [trueautomation.io](https://trueautomation.io) for documentation and inquiries.*
 
