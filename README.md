@@ -6,9 +6,9 @@ When you pick an element that should be used in your test, TrueAutomation.IO gen
 - **save time on finding proper locators**
 - **save time on tests maintenance**
 
-*Visit [trueautomation.io](https://trueautomation.io) for documentation and inquiries.*
+![demo](styles/taPickerV2.gif 'Element recording process')
 
-![demo](.gif)
+*Visit [trueautomation.io](https://trueautomation.io) for documentation and inquiries.*
 
 ## Installation
 ### Dependencies
@@ -22,7 +22,7 @@ To use this plugin, please perform the actions below:
 ### GUI
 1. Install [Atom latest](https://atom.io) or newer
 1. Launch Atom
-1. Open **Settings View** using `Cmd+`, on macOS or `Ctrl+`on other platforms
+1. Open **Settings View** using `Cmd + ,` on macOS or `Ctrl + ,` on other platforms
 1. Click the **Install** tab on the left side
-1. Enter `trueautomation-atom` in the search field and press `Enter`
+1. Enter `trueautomation-element-picker` in the search field and press `Enter`
 1. Click the **Install** button that appears
